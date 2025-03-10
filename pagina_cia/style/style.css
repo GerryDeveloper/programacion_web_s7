@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+}
+
+#header-body {
+  background-color: #FF99CC;
+  display: inline-block;
+  width: 100%;
+}
+
+#menu-header li{
+  
+  background-color: red;
+  display: inline-block;
+}
+#header-section {
+  display: inline-block;
+}
+
+#main-content {
+  background-color: #99CCFF;
+  width: 90%;
+  margin-left: 5%;
+}
+
+#info-section {
+  background-color: #CCFF99;
+  width: 90%;
+  margin-left: 5%;
+}
+
+#footer-body {
+  background-color: #CC99FF;
+}

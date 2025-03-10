@@ -1,0 +1,27 @@
+.button-3d {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(145deg, #3498db, #2980b9);
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  
+  /* Sombra para el efecto 3D */
+  box-shadow: 4px 4px 0px #1c5985;
+  position: relative;
+}
+
+/* Efecto hover: eleva el botón */
+.button-3d:hover {
+  transform: translateY(-2px);
+  box-shadow: 6px 6px 0px #1c5985;
+}
+
+/* Efecto active: se hunde al hacer clic */
+.button-3d:active {
+  transform: translateY(2px);
+  box-shadow: 2px 2px 0px #1c5985;
+}

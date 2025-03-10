@@ -1,0 +1,30 @@
+CSS Units
+hay varias
+- Absolute Units
+  - pixels
+  - pt (point)
+  - cm 
+  - mm
+  - in
+
+- Relative Units
+  there are 2 types 
+  - relative to font-size 
+
+  - em 
+  - rem 
+
+  - relative to the view-port (browser window)
+
+  - vw
+  - vh
+  - vmin
+  - vmax
+
+- Percentage Units
+  - percentage are mainly used for widths
+  - relative to their parent (except height)
+  - el porcentaje es relativo al compnente padre
+
+Imagenes
+ - son elementos inline 

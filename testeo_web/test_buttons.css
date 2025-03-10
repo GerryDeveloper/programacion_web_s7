@@ -1,0 +1,144 @@
+/* Estilos base */
+.button {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Tamaños */
+.button.small {
+  font-size: 12px;
+  padding: 6px 12px;
+}
+
+.button.medium {
+  font-size: 14px;
+  padding: 8px 16px;
+}
+
+.button.large {
+  font-size: 18px;
+  padding: 12px 24px;
+}
+
+/* Colores */
+.button.blue {
+  background-color: #3498db;
+}
+
+.button.green {/* Estilos base */
+  .button {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 10px 20px;
+      cursor: pointer;
+      transition: all 0.2s ease-in-out;
+      box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Tamaños */
+  .button.small {
+      font-size: 12px;
+      padding: 6px 12px;
+  }
+  
+  .button.medium {
+      font-size: 14px;
+      padding: 8px 16px;
+  }
+  
+  .button.large {
+      font-size: 18px;
+      padding: 12px 24px;
+  }
+  
+  /* Colores */
+  .button.blue {
+      background-color: #3498db;
+  }
+  
+  .button.green {
+      background-color: #2ecc71;
+  }
+  
+  /* Efecto hover */
+  .button:hover {
+      opacity: 0.8;
+  }
+  
+  /* Efecto al presionar */
+  .button:active {
+      transform: scale(0.95);
+      box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  }
+/* Estilos base */
+.button {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Tamaños */
+.button.small {
+  font-size: 12px;
+  padding: 6px 12px;
+}
+
+.button.medium {
+  font-size: 14px;
+  padding: 8px 16px;
+}
+
+.button.large {
+  font-size: 18px;
+  padding: 12px 24px;
+}
+
+/* Colores */
+.button.blue {
+  background-color: #3498db;
+}
+
+.button.green {
+  background-color: #2ecc71;
+}
+
+/* Efecto hover */
+.button:hover {
+  opacity: 0.8;
+}
+
+/* Efecto al presionar */
+.button:active {
+  transform: scale(0.95);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+  background-color: #2ecc71;
+}
+
+/* Efecto hover */
+.button:hover {
+  opacity: 0.8;
+}
+
+/* Efecto al presionar */
+.button:active {
+  transform: scale(0.95);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}

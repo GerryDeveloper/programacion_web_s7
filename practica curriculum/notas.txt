@@ -1,0 +1,7 @@
+cisco modulo 8,9,10 eval
+5
+
+17 - El switch se puede administrar de forma remota desde un host en otra red.
+Explique: Normalmente, una dirección de puerta de enlace predeterminada 
+se configura en todos los dispositivos para permitirles comunicarse más allá de su red local. 
+En un switch, esto se logra mediante el comando ip default-gateway ip address.
